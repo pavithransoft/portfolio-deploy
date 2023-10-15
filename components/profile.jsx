@@ -176,16 +176,16 @@ const ProfilePage = () => {
         </p>
         <p className="border-l-2 border-slate-400 px-5 py-1">
           <Link
+            href={"https://react-code-test-dashboard.vercel.app/"}
+            className="p-1 sm:p-2 mx-2 sm:mx-4 lg:text-lg border-b-2"
+          >
+            <span className="px-2">Dashboard</span>
+          </Link>
+          <Link
             href={"https://eshop-deploy.vercel.app/"}
             className="p-1 sm:p-2 mx-2 sm:mx-4 lg:text-lg border-b-2"
           >
             <span className="px-2">eShop</span>
-          </Link>
-          <Link
-            href={"https://admin-dashboard-deploy.vercel.app/"}
-            className="p-1 sm:p-2 mx-2 sm:mx-4 lg:text-lg border-b-2"
-          >
-            <span className="px-2">Dashboard</span>
           </Link>
           <Link
             href={"https://table-deploy.vercel.app/"}
