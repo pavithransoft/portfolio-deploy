@@ -182,12 +182,6 @@ const ProfilePage = () => {
             <span className="px-2">Dashboard</span>
           </Link>
           <Link
-            href={"https://eshop-deploy.vercel.app/"}
-            className="p-1 sm:p-2 mx-2 sm:mx-4 lg:text-lg border-b-2"
-          >
-            <span className="px-2">eShop</span>
-          </Link>
-          <Link
             href={"https://table-deploy.vercel.app/"}
             className="p-1 sm:p-2 mx-2 sm:mx-4 lg:text-lg border-b-2"
           >
